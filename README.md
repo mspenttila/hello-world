@@ -2,5 +2,5 @@
 First repository for learning
 
 
-Hello
+Hello,
 My name is Matti and I'm newbie with the Github - just learning how to use it :)
